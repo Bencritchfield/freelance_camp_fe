@@ -1,7 +1,7 @@
-export interface document {
+export interface Document {
 	title: string,
 	description: string, 
 	file_url: string, 
 	update_at: string, 
-	image-url: string, 
+	image_url: string, 
 }
