@@ -13,23 +13,23 @@ var DocumentsComponent = (function () {
         this.documents = [
             {
                 title: "My First Doc",
-                description: 'asdfadfasdf adfa',
+                description: 'asdfasdfasdf asdfasd',
                 file_url: 'http://google.com',
-                updated_at: '11/11/17',
+                updated_at: '11/11/16',
                 image_url: 'http://google.com',
             },
             {
                 title: "My Second Doc",
-                description: 'asdfadfasdf adfa',
+                description: 'asdfasdfasdf asdfasd',
                 file_url: 'http://google.com',
-                updated_at: '11/11/17',
+                updated_at: '11/11/16',
                 image_url: 'http://google.com',
             },
             {
-                title: "My Third Doc",
-                description: 'asdfadfasdf adfa',
+                title: "My Last Doc",
+                description: 'asdfasdfasdf asdfasd',
                 file_url: 'http://google.com',
-                updated_at: '11/11/17',
+                updated_at: '11/11/16',
                 image_url: 'http://google.com',
             }
         ];
